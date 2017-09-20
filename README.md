@@ -14,6 +14,8 @@
       it draws shapes using the turtle library.
 * curse-word-checker:-
       While typing something there is a chance that we end up writting some curse words due to typo. If we send this document to any person it would be embarassing, so to avoid such a situation , we can use this program which detects if our document contains any curse words.
+* working with class:-
+      I used this to learn some basic concepts of OOP and class like inheritance.
       
       
 ### Author
